@@ -108,7 +108,7 @@ const Login = () => {
         <Grid container sx={{ mt: 2 }}>
           <Grid item xs>
             <Typography variant="body2" color="text.secondary" align="center">
-              Demo app for authentication context
+              Authentication Context App
             </Typography>
           </Grid>
         </Grid>
